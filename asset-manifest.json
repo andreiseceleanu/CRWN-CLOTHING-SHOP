@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/CRWN-CLOTHING-SHOP/static/css/main.bbf6d9b8.chunk.css",
-    "main.js": "/CRWN-CLOTHING-SHOP/static/js/main.56c5d786.chunk.js",
-    "main.js.map": "/CRWN-CLOTHING-SHOP/static/js/main.56c5d786.chunk.js.map",
-    "runtime-main.js": "/CRWN-CLOTHING-SHOP/static/js/runtime-main.6c8e48ac.js",
-    "runtime-main.js.map": "/CRWN-CLOTHING-SHOP/static/js/runtime-main.6c8e48ac.js.map",
-    "static/js/2.5952e72e.chunk.js": "/CRWN-CLOTHING-SHOP/static/js/2.5952e72e.chunk.js",
-    "static/js/2.5952e72e.chunk.js.map": "/CRWN-CLOTHING-SHOP/static/js/2.5952e72e.chunk.js.map",
+    "main.css": "/CRWN-CLOTHING-SHOP/static/css/main.033eac05.chunk.css",
+    "main.js": "/CRWN-CLOTHING-SHOP/static/js/main.2f4df751.chunk.js",
+    "main.js.map": "/CRWN-CLOTHING-SHOP/static/js/main.2f4df751.chunk.js.map",
+    "runtime~main.js": "/CRWN-CLOTHING-SHOP/static/js/runtime~main.82893bf8.js",
+    "runtime~main.js.map": "/CRWN-CLOTHING-SHOP/static/js/runtime~main.82893bf8.js.map",
+    "static/js/2.3f23a6d0.chunk.js": "/CRWN-CLOTHING-SHOP/static/js/2.3f23a6d0.chunk.js",
+    "static/js/2.3f23a6d0.chunk.js.map": "/CRWN-CLOTHING-SHOP/static/js/2.3f23a6d0.chunk.js.map",
     "index.html": "/CRWN-CLOTHING-SHOP/index.html",
-    "precache-manifest.2db530f12fa3444e0f1534ce7953e35d.js": "/CRWN-CLOTHING-SHOP/precache-manifest.2db530f12fa3444e0f1534ce7953e35d.js",
+    "precache-manifest.76fb775b448e615b30ce92d4765da450.js": "/CRWN-CLOTHING-SHOP/precache-manifest.76fb775b448e615b30ce92d4765da450.js",
     "service-worker.js": "/CRWN-CLOTHING-SHOP/service-worker.js",
-    "static/css/main.bbf6d9b8.chunk.css.map": "/CRWN-CLOTHING-SHOP/static/css/main.bbf6d9b8.chunk.css.map",
+    "static/css/main.033eac05.chunk.css.map": "/CRWN-CLOTHING-SHOP/static/css/main.033eac05.chunk.css.map",
     "static/media/crown.ed28accb.svg": "/CRWN-CLOTHING-SHOP/static/media/crown.ed28accb.svg",
     "static/media/shopping-bag.30f07071.svg": "/CRWN-CLOTHING-SHOP/static/media/shopping-bag.30f07071.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.6c8e48ac.js",
-    "static/js/2.5952e72e.chunk.js",
-    "static/css/main.bbf6d9b8.chunk.css",
-    "static/js/main.56c5d786.chunk.js"
-  ]
+  }
 }
